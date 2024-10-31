@@ -1,0 +1,13 @@
+{
+    "display_name": "Objective",
+    "loading_order": 6,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "type": "module",
+    "author": "RossAscends",
+    "version": "1.0.0",
+    "homePage": "https://github.com/SillyTavern/SillyTavern",
+    "auto_update": true
+}
